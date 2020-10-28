@@ -4,8 +4,6 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 # Note:
 **This library is currently untested, Please inform me if any problem you found to improve it.**
 
-![Device](/SCH_Snapshot-Picture/CM4_Page_01.jpg?raw=true)
-
 # Official Raspberry Pi Document for CM4 Information 
 
 [Compute Module IO board design data](https://github.com/raspberrypi/documentation/blob/master/hardware/computemodule/designfiles.md)
@@ -15,6 +13,8 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 [Compute Module 4 IO Board KiCAD PCB design](http://datasheets.raspberrypi.org/cm4io/CM4IO-KiCAD.zip)
 
 [CM4 3D Model STEP File](https://datasheets.raspberrypi.org/cm4/CM4-step.zip)
+
+![Device](/SCH_Snapshot-Picture/CM4_Page_01.jpg?raw=true)
 
 ## Description:
 These are the schematic libs,footprint libs,sch template,guideline for design custom carrier circuit board for Raspbeery Pi compute module 4 (CM4).
