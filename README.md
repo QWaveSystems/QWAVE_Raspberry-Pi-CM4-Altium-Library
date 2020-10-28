@@ -2,7 +2,7 @@
 Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline for Altium Designer
 
 # Note:
-**This library is currently untested, I can not guarantee it will works, Please inform me if any problem you found to improve it.**
+**This library is currently untested, Please inform me if any problem you found to improve it.**
 
 ![Device](/SCH_Snapshot-Picture/CM4_Page_01.jpg?raw=true)
 
@@ -28,6 +28,19 @@ Email: amornthep@qwavesys.com
 ![Device](/SCH_Snapshot-Picture/CM4_Page_02.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/CM4_Page_03.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/CM4_Page_19.jpg?raw=true)
-![Device](/SCH_Snapshot-Picture/CM4_Page_04.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/CM4_Page_05.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/CM4_Page_06.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_07.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_08.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_10.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_11.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_12.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_13.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_14.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_15.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_16.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_17.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_18.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_19.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_20.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_21.jpg?raw=true)
