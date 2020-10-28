@@ -1,7 +1,8 @@
 # QWAVE_Raspberry-Pi-CM4-Altium-Library
 Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline for Altium Designer
 
-# Note that this library is currently untested, I can not guarabtee it will works, Please inform me if any problem you found to improve it.
+# Note:
+**This library is currently untested, I can not guarantee it will works, Please inform me if any problem you found to improve it.**
 
 ![Device](/SCH_Snapshot-Picture/CM4_Page_01.jpg?raw=true)
 
