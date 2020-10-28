@@ -3,7 +3,7 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 
 ![Device](/SCH_Snapshot-Picture/CM4_Page_01.jpg?raw=true)
 
-# Reference Information 
+# Official Raspberry Pi Document for CM4 Information 
 
 [Compute Module IO board design data](https://github.com/raspberrypi/documentation/blob/master/hardware/computemodule/designfiles.md)
 
@@ -19,7 +19,8 @@ These are the schematic libs,footprint libs,sch template,guideline for design cu
 ## License:
 Raspberry Pi Compute Module 4 (CM4) Full Library for Altium Designer
 
-Copyright (C) 2020 Amornthep Phunsin (Q-Wave Systems)
+Copyright (C) 2020 Amornthep Phunsin
+Email: amornthep@qwavesys.com
 
 ![Device](/SCH_Snapshot-Picture/CM4_Page_02.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/CM4_Page_03.jpg?raw=true)
