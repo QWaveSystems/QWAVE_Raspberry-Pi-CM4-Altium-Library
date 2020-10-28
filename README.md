@@ -22,9 +22,8 @@ Raspberry Pi Compute Module 4 (CM4) Full Library for Altium Designer
 Copyright (C) 2020 Amornthep Phunsin (Q-Wave Systems)
 
 ![Device](/SCH_Snapshot-Picture/CM4_Page_02.jpg?raw=true)
-
 ![Device](/SCH_Snapshot-Picture/CM4_Page_03.jpg?raw=true)
-
 ![Device](/SCH_Snapshot-Picture/CM4_Page_19.jpg?raw=true)
-
 ![Device](/SCH_Snapshot-Picture/CM4_Page_04.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_05.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CM4_Page_06.jpg?raw=true)
