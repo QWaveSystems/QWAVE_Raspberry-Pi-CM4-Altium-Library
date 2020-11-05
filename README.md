@@ -12,6 +12,8 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 
 ![Device](/SCH_Snapshot-Picture/CatsEYE-Flasher.png?raw=true)
 
+![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board.png?raw=true)
+
 # Official Raspberry Pi Document for CM4.
 
 [Compute Module IO board design data](https://github.com/raspberrypi/documentation/blob/master/hardware/computemodule/designfiles.md)
