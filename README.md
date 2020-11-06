@@ -23,7 +23,7 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 ![Device](/SCH_Snapshot-Picture/SeaBOX_HDMI_Stick.png?raw=true)
 
 # Demo Project: CatsPi HAT Flip Edition - compatible with standard HAT plug at bottom side.
-![Device](/SCH_Snapshot-Picture/CatPi_HAT_Flip_version?raw=true)
+![Device](/SCH_Snapshot-Picture/CatPi_HAT_Flip_version.png?raw=true)
 
 # Official Raspberry Pi Document for CM4.
 
