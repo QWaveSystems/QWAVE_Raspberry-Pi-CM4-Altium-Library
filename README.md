@@ -19,6 +19,12 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 # Demo Project: CatsPi Dev Board - Rpi CM4 dev board (85x56mm) compatible with standard HAT and enclosure.
 ![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board.png?raw=true)
 
+# Demo Project: SeaBOX HDMI Stick using CM4.
+![Device](/SCH_Snapshot-Picture/SeaBOX_HDMI_Stick.png?raw=true)
+
+# Demo Project: CatsPi HAT Flip Edition - compatible with standard HAT plug at bottom side.
+![Device](/SCH_Snapshot-Picture/CatPi_HAT_Flip_version?raw=true)
+
 # Official Raspberry Pi Document for CM4.
 
 [Compute Module IO board design data](https://github.com/raspberrypi/documentation/blob/master/hardware/computemodule/designfiles.md)
