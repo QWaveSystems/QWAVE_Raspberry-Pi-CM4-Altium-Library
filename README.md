@@ -15,6 +15,7 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 
 # Demo Project: CatsEYE Flasher - USB Flasher for CM4.
 ![Device](/SCH_Snapshot-Picture/CatsEYE-Flasher.png?raw=true)
+![Device](/SCH_Snapshot-Picture/CatsEYE-Flasher_03.png?raw=true)
 
 # Demo Project: CatsPi Dev Board - Rpi CM4 dev board (85x56mm) compatible with standard HAT and enclosure.
 ![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board.png?raw=true)
