@@ -11,7 +11,13 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 ** Amornthep Phunsin amornthep@qwavesys.com
 
 # Note:
-**This library is currently untested, Please inform me if any problem you found to improve it.**
+**This library has been fully tested with various projects that I made refer below.**
+
+# Demo Project: CM4 IoT Gateway,PCIe M2.SSD,Modbus 485/TCP,NB-IoT,GPS,WiFi,BT,DI/DO,Relay,AI (0-5/10)V.
+![Device](/SCH_Snapshot-Picture/Gateway_05.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/Gateway_04.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/Gateway_02.png?raw=true)
+![Device](/SCH_Snapshot-Picture/Gateway_01.png?raw=true)
 
 # Demo Project: CatsEYE Flasher - USB Flasher for CM4.
 ![Device](/SCH_Snapshot-Picture/CatsEYE-Flasher_02.png?raw=true)
@@ -23,6 +29,8 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 
 # Demo Project: SeaBOX HDMI Stick using CM4.
 ![Device](/SCH_Snapshot-Picture/SeaBOX_HDMI_Stick.png?raw=true)
+![Device](/SCH_Snapshot-Picture/SeaBOX_HDMI_Stick_02.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/SeaBOX_HDMI_Stick_04.jpg?raw=true)
 
 # Demo Project: CatsPi HAT Flip Edition - compatible with standard HAT plug at bottom side.
 ![Device](/SCH_Snapshot-Picture/CatPi_HAT_Flip_version.png?raw=true)
