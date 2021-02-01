@@ -29,6 +29,8 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 
 # Demo Project: SeaBOX HDMI Stick using CM4.
 ![Device](/SCH_Snapshot-Picture/SeaBOX_HDMI_Stick.png?raw=true)
+![Device](/SCH_Snapshot-Picture/SeaBOX_HDMI_Stick_02.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/SeaBOX_HDMI_Stick_04.jpg?raw=true)
 
 # Demo Project: CatsPi HAT Flip Edition - compatible with standard HAT plug at bottom side.
 ![Device](/SCH_Snapshot-Picture/CatPi_HAT_Flip_version.png?raw=true)
