@@ -11,7 +11,13 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 ** Amornthep Phunsin amornthep@qwavesys.com
 
 # Note:
-**This library is currently untested, Please inform me if any problem you found to improve it.**
+**This library is has beed tested with various project that I made refer below.**
+
+# Demo Project: CM4 IoT Gateway,PCIe M2.SSD,Modbus 485/TCP,NB-IoT,GPS,WiFi,BT,DI/DO,Relay,AI (0-5/10)V.
+![Device](/SCH_Snapshot-Picture/Gateway_05.png?raw=true)
+![Device](/SCH_Snapshot-Picture/Gateway_04.png?raw=true)
+![Device](/SCH_Snapshot-Picture/Gateway_02.png?raw=true)
+![Device](/SCH_Snapshot-Picture/Gateway_01.png?raw=true)
 
 # Demo Project: CatsEYE Flasher - USB Flasher for CM4.
 ![Device](/SCH_Snapshot-Picture/CatsEYE-Flasher_02.png?raw=true)
