@@ -7,7 +7,7 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 
 **[https://www.paypal.com/paypalme/qwavesystems](https://www.paypal.com/paypalme/qwavesystems)**
 
-# Design service and customization of CM4 available Please contact me. 
+# Contact me if you want customization. 
 ** Amornthep Phunsin amornthep@qwavesys.com
 
 # Note:
