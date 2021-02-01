@@ -14,8 +14,8 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 **This library has been fully tested with various projects that I made refer below.**
 
 # Demo Project: CM4 IoT Gateway,PCIe M2.SSD,Modbus 485/TCP,NB-IoT,GPS,WiFi,BT,DI/DO,Relay,AI (0-5/10)V.
-![Device](/SCH_Snapshot-Picture/Gateway_05.png?raw=true)
-![Device](/SCH_Snapshot-Picture/Gateway_04.png?raw=true)
+![Device](/SCH_Snapshot-Picture/Gateway_05.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/Gateway_04.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/Gateway_02.png?raw=true)
 ![Device](/SCH_Snapshot-Picture/Gateway_01.png?raw=true)
 
