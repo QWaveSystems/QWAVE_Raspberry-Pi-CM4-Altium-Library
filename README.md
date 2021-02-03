@@ -18,6 +18,7 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 ![Device](/SCH_Snapshot-Picture/Gateway_04.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/Gateway_02.png?raw=true)
 ![Device](/SCH_Snapshot-Picture/Gateway_01.png?raw=true)
+![Device](/SCH_Snapshot-Picture/Gateway_06.png?raw=true)
 
 # Demo Project: CatsEYE Flasher - USB Flasher for CM4.
 ![Device](/SCH_Snapshot-Picture/CatsEYE-Flasher_02.png?raw=true)
@@ -25,7 +26,10 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 
 # Demo Project: CatsPi Dev Board - Rpi CM4 dev board (85x56mm) compatible with standard HAT and enclosure.
 ![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board.png?raw=true)
+![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board_08.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board_02.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board_04.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board_07.jpg?raw=true)
 
 # Demo Project: SeaBOX HDMI Stick using CM4.
 ![Device](/SCH_Snapshot-Picture/SeaBOX_HDMI_Stick.png?raw=true)
@@ -35,6 +39,8 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 # Demo Project: CatsPi HAT Flip Edition - compatible with standard HAT plug at bottom side.
 ![Device](/SCH_Snapshot-Picture/CatPi_HAT_Flip_version.png?raw=true)
 ![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board_03.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board_05.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board_06.jpg?raw=true)
 
 # Demo Project: SeaBOX HDMI Stick PoE Edition.
 ![Device](/SCH_Snapshot-Picture/SeaBOX_PoE_Board.png?raw=true)
