@@ -26,7 +26,7 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 
 # Demo Project: CatsPi Dev Board - Rpi CM4 dev board (85x56mm) compatible with standard HAT and enclosure.
 ![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board.png?raw=true)
-![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board_08.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board_08.png?raw=true)
 ![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board_02.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board_04.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/CatPi-Dev-Board_07.jpg?raw=true)
