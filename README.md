@@ -18,7 +18,6 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 ![Device](/SCH_Snapshot-Picture/Gateway_04.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/Gateway_02.png?raw=true)
 ![Device](/SCH_Snapshot-Picture/Gateway_01.png?raw=true)
-![Device](/SCH_Snapshot-Picture/Gateway_06.png?raw=true)
 
 # Demo Project: CatsEYE Flasher - USB Flasher for CM4.
 ![Device](/SCH_Snapshot-Picture/CatsEYE-Flasher_02.png?raw=true)
