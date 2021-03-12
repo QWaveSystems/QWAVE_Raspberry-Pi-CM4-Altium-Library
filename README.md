@@ -17,7 +17,7 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 ![Device](/SCH_Snapshot-Picture/Gateway_05.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/CM4_GatewayBlokDiagram1.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/CM4_GatewayBlokDiagram2.jpg?raw=true)
-![Device](/SCH_Snapshot-Picture/Gateway_06.png.png?raw=true)
+![Device](/SCH_Snapshot-Picture/Gateway_06.png?raw=true)
 ![Device](/SCH_Snapshot-Picture/Gateway_04.jpg?raw=true)
 ![Device](/SCH_Snapshot-Picture/Gateway_02.png?raw=true)
 ![Device](/SCH_Snapshot-Picture/Gateway_01.png?raw=true)
