@@ -46,6 +46,8 @@ Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline 
 
 # Demo Project: SeaBOX HDMI Stick PoE Edition.
 ![Device](/SCH_Snapshot-Picture/SeaBOX_PoE_Board.png?raw=true)
+![Device](/SCH_Snapshot-Picture/PoE_01.jpg?raw=true)
+![Device](/SCH_Snapshot-Picture/PoE_02.jpg?raw=true)
 
 # Official Raspberry Pi Document for CM4.
 
