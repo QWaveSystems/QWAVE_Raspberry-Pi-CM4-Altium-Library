@@ -1,1 +1,22 @@
-Record=TopLevelDocument|FileName=3D_Board_View.SchDoc
+Record=TopLevelDocument|FileName=3D_Board_View.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=All Component_0.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=All Component_1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=BT WiFi Power Reset Control.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=CMIO4 PCB Stackup.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=Connector.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=CSI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=Differential Pair match spec.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=DSI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=Ethernet.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=GPIO.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=HDMI2.0.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=LEDs.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=PCB_Footprint.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=PCIe.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=Power.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=QWAVE-Stackup_Design_6Layer_3GHz.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=SD Card.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=Spacer_M2.5.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=Top_Level_Block Diagram.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=TV DAC.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3D_Board_View.SchDoc|FileName=USB.SchDoc|SheetNumber= 
