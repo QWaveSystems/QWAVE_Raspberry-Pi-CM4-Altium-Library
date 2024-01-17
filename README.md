@@ -1,11 +1,7 @@
 # QWAVE_Raspberry-Pi-CM4-Altium-Library
 Raspberry Pi Compute Module 4 (CM4) Full Library, Design Template&amp;Guideline for Altium Designer
 
-**If you find this package is useful, please consider supporting me with a Paypal donation. **
-
-**Paypal: amornthep@qwavesys.com**
-
-**[https://www.paypal.com/paypalme/qwavesystems](https://www.paypal.com/paypalme/qwavesystems)**
+**If you find this package is useful, please consider supporting me.
 
 # Contact me if you want customization. 
 ** Amornthep Phunsin amornthep@qwavesys.com
